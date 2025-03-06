@@ -1,0 +1,15 @@
+a tom 100
+a ball 34
+a jerry 39
+a dog  64
+a eveil 67
+a fish 99
+a dog
+a cat 77
+a mouse 10
+a dorimon
+a nobita 88
+a susuka 99
+a beem 50
+a mottu 98
+a pattlu 87
